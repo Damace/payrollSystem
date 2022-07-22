@@ -79,7 +79,7 @@
                         
                       </div>
                       <div class="col-lg-11" align="right">
-                        <h1 class="card-title">MhawaNet Payroll System |<span style="color: #045bb8;font-weight: bold;"> MPS</span></h1>
+                        <h1 class="card-title">MhawaNet ghhhghghghPayroll System |<span style="color: #045bb8;font-weight: bold;"> MPS</span></h1>
                         
                         <nav class="header-nav ms-auto" style="float: right;">
                           <ul class="d-flex align-items-center">
